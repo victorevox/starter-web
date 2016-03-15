@@ -12,11 +12,7 @@ Sample website with plenty of files for demos
 
 ##Mas cositas y asi
 
-<<<<<<< HEAD
-#How to contribuite
-Añadiendo esta linea
-=======
-##TEAM
-	Victor Rene Heredia
-	victorevox@gmail.com
->>>>>>> cambios-simples
+##Copright
+
+2016 git copyright
+
