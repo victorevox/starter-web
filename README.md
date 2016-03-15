@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ##Linea añadida
 
 ##Mas cositas y asi
+
+#How to contribuite
+Añadiendo esta linea
