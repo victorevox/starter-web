@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ##Linea añadida
 
 ##Mas cositas y asi
+
+##TEAM
+	Victor Rene Heredia
+	victorevox@gmail.com
